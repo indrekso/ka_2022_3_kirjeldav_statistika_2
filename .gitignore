@@ -1,0 +1,7 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+data/gifts2.csv
+*.Rmd
+*data_prep.R
